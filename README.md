@@ -3,8 +3,6 @@
 
 A Python simulation of bilateral merger bargaining, comparing Minimax, exact Alpha-Beta pruning, and depth-limited Alpha-Beta with three heuristic evaluation functions.
 
-**Academic project · AMOD 5470H · Trent University**
-
 ## Business question
 How do computational constraints and evaluation design affect decisions in a sequential buyer–seller negotiation?
 
